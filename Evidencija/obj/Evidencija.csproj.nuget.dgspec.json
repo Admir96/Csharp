@@ -1,0 +1,73 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\AdmirPitarević\\source\\repos\\Evidencija\\Evidencija\\Evidencija.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\AdmirPitarević\\source\\repos\\Evidencija\\Evidencija\\Evidencija.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\AdmirPitarević\\source\\repos\\Evidencija\\Evidencija\\Evidencija.csproj",
+        "projectName": "Evidencija",
+        "projectPath": "C:\\Users\\AdmirPitarević\\source\\repos\\Evidencija\\Evidencija\\Evidencija.csproj",
+        "packagesPath": "C:\\Users\\AdmirPitarević\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\AdmirPitarević\\source\\repos\\Evidencija\\Evidencija\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\AdmirPitarević\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "EntityFramework": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            },
+            "Microsoft.ReportingServices.ReportViewerControl.Winforms": {
+              "target": "Package",
+              "version": "[150.1404.0, )"
+            },
+            "Microsoft.SqlServer.Types": {
+              "target": "Package",
+              "version": "[14.0.1016.290, )"
+            },
+            "System.Data.SQLite": {
+              "target": "Package",
+              "version": "[1.0.112, )"
+            },
+            "System.Data.SQLite.Core": {
+              "target": "Package",
+              "version": "[1.0.112, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
